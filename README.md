@@ -32,7 +32,7 @@ Antes de executar o sistema, verifique se você possui:
 ## Instalação
 1. Clone o repositório do projeto:
    ```bash
-   git clone https://github.com/seu-usuario/sentimento-woolball.git
+   git clone https://github.com/bugadoz/Sistema-de-Reconhecimento-de-Sentimento-usando-a-API-do-WoolBall.git
    cd sentimento-woolball
    ```
 
